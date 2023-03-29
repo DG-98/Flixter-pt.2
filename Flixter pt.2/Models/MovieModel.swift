@@ -8,7 +8,7 @@
 import Foundation
 
 struct MovieModel: Decodable {
-    let main : Movie
+    let results : [Movie]
 }
 
 struct Movie : Decodable {

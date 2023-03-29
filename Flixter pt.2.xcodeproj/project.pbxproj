@@ -14,6 +14,7 @@
 		4C30B99F29D3C88500AF6B9F /* MovieModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B99E29D3C88500AF6B9F /* MovieModel.swift */; };
 		4C30B9A129D3CEC700AF6B9F /* URLExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A029D3CEC700AF6B9F /* URLExtension.swift */; };
 		4C30B9A329D3D03D00AF6B9F /* MovieService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A229D3D03D00AF6B9F /* MovieService.swift */; };
+		4C30B9A629D4C78300AF6B9F /* MovieViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A529D4C78300AF6B9F /* MovieViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		4C30B99E29D3C88500AF6B9F /* MovieModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieModel.swift; sourceTree = "<group>"; };
 		4C30B9A029D3CEC700AF6B9F /* URLExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLExtension.swift; sourceTree = "<group>"; };
 		4C30B9A229D3D03D00AF6B9F /* MovieService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieService.swift; sourceTree = "<group>"; };
+		4C30B9A529D4C78300AF6B9F /* MovieViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +59,9 @@
 		4C30B98A29D3C43D00AF6B9F /* Flixter pt.2 */ = {
 			isa = PBXGroup;
 			children = (
+				4C30B9A429D4C0CD00AF6B9F /* ViewModel */,
 				4C30B99D29D3C71F00AF6B9F /* Extensions */,
 				4C30B99C29D3C70C00AF6B9F /* Services */,
-				4C30B99B29D3C6FD00AF6B9F /* View Models */,
 				4C30B99929D3C6AD00AF6B9F /* Models */,
 				4C30B98B29D3C43D00AF6B9F /* Flixter_pt_2App.swift */,
 				4C30B98D29D3C43D00AF6B9F /* ContentView.swift */,
@@ -93,13 +95,6 @@
 			path = "View Models";
 			sourceTree = "<group>";
 		};
-		4C30B99B29D3C6FD00AF6B9F /* View Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "View Models";
-			sourceTree = "<group>";
-		};
 		4C30B99C29D3C70C00AF6B9F /* Services */ = {
 			isa = PBXGroup;
 			children = (
@@ -114,6 +109,14 @@
 				4C30B9A029D3CEC700AF6B9F /* URLExtension.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		4C30B9A429D4C0CD00AF6B9F /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				4C30B9A529D4C78300AF6B9F /* MovieViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,6 +194,7 @@
 				4C30B98E29D3C43D00AF6B9F /* ContentView.swift in Sources */,
 				4C30B98C29D3C43D00AF6B9F /* Flixter_pt_2App.swift in Sources */,
 				4C30B9A329D3D03D00AF6B9F /* MovieService.swift in Sources */,
+				4C30B9A629D4C78300AF6B9F /* MovieViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
