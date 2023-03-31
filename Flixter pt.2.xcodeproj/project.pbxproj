@@ -15,6 +15,7 @@
 		4C30B9A129D3CEC700AF6B9F /* URLExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A029D3CEC700AF6B9F /* URLExtension.swift */; };
 		4C30B9A329D3D03D00AF6B9F /* MovieService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A229D3D03D00AF6B9F /* MovieService.swift */; };
 		4C30B9A629D4C78300AF6B9F /* MovieViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A529D4C78300AF6B9F /* MovieViewModel.swift */; };
+		4C30B9A829D60D7800AF6B9F /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30B9A729D60D7800AF6B9F /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		4C30B9A029D3CEC700AF6B9F /* URLExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLExtension.swift; sourceTree = "<group>"; };
 		4C30B9A229D3D03D00AF6B9F /* MovieService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieService.swift; sourceTree = "<group>"; };
 		4C30B9A529D4C78300AF6B9F /* MovieViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewModel.swift; sourceTree = "<group>"; };
+		4C30B9A729D60D7800AF6B9F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				4C30B98D29D3C43D00AF6B9F /* ContentView.swift */,
 				4C30B98F29D3C43F00AF6B9F /* Assets.xcassets */,
 				4C30B99129D3C43F00AF6B9F /* Preview Content */,
+				4C30B9A729D60D7800AF6B9F /* DetailView.swift */,
 			);
 			path = "Flixter pt.2";
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				4C30B99F29D3C88500AF6B9F /* MovieModel.swift in Sources */,
 				4C30B9A129D3CEC700AF6B9F /* URLExtension.swift in Sources */,
 				4C30B98E29D3C43D00AF6B9F /* ContentView.swift in Sources */,
+				4C30B9A829D60D7800AF6B9F /* DetailView.swift in Sources */,
 				4C30B98C29D3C43D00AF6B9F /* Flixter_pt_2App.swift in Sources */,
 				4C30B9A329D3D03D00AF6B9F /* MovieService.swift in Sources */,
 				4C30B9A629D4C78300AF6B9F /* MovieViewModel.swift in Sources */,
