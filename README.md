@@ -4,7 +4,7 @@ Submitted by: **Derrick Garcon**
 
 **Flixter Pt.2** is a movie browsing app that presents a list of movies that the user can tap to see more details. Updated with dark mode and a tab to see movie posters.
 
-Time spent: **20** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' />
+<img src=https://user-images.githubusercontent.com/85405879/229258653-d36eb755-2f0a-4548-a140-3a8c3d3521ee.gif
+/>
 
 GIF created with Kapture
 
