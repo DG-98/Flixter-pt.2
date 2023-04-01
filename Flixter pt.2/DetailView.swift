@@ -1,8 +1,8 @@
 //
 //  DetailView.swift
-//  Flixter Pt.1
+//  Flixter Pt.2
 //
-//  Created by Derrick on 3/22/23.
+//  Created by Derrick on 3/30/23.
 //
 
 import SwiftUI
@@ -29,7 +29,7 @@ struct DetailView: View {
                 Text(String("\(movie.popularity) Popularity"))
             }
             .padding()
-//            Text(movies.description)
+            Text(movie.overview)
             }
             
         }

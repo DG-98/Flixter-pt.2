@@ -29,6 +29,7 @@
 		4C30B9A229D3D03D00AF6B9F /* MovieService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieService.swift; sourceTree = "<group>"; };
 		4C30B9A529D4C78300AF6B9F /* MovieViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewModel.swift; sourceTree = "<group>"; };
 		4C30B9A729D60D7800AF6B9F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		4C30B9A929D7B9A300AF6B9F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		4C30B97F29D3C43D00AF6B9F = {
 			isa = PBXGroup;
 			children = (
+				4C30B9A929D7B9A300AF6B9F /* README.md */,
 				4C30B98A29D3C43D00AF6B9F /* Flixter pt.2 */,
 				4C30B98929D3C43D00AF6B9F /* Products */,
 			);
